@@ -55,6 +55,14 @@
 2. 人物
 
    ![夕阳](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E5%A4%95%E9%98%B3.jpg)
+   ![小纺](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E5%B0%8F%E7%BA%BA.jpg)
+   ![会长](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E4%BC%9A%E9%95%BF.jpg)
+   ![副会长](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E5%89%AF%E4%BC%9A%E9%95%BF.jpg)
+   ![粉毛](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E7%B2%89%E6%AF%9B.jpg)
+   ![紫毛杀人鬼](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E7%B4%AB%E6%AF%9B%E6%9D%80%E4%BA%BA%E9%AC%BC.jpg)
+   ![救护班班长](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E6%95%91%E6%8A%A4%E7%8F%AD%E7%8F%AD%E9%95%BF.jpg)
+   ![坏女人](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E5%9D%8F%E5%A5%B3%E4%BA%BA.jpg)
+   ![水名](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/%E6%B0%B4%E5%90%8D.jpg)
 3. 简评（仅供参考）
     * 雷点
         > 首先个人觉得结局是be，属于那种钝刀，它不是说很锋利chua的一下把你捅穿了就过去了，而是留在你身体里，当你以为你已经从伤口恢复过来的时候它就再噶你一下提醒你，让人意难平很久；其次里面有对cp不算很纯爱（说的就是你月角岛）；然后是扶她百合，当然我个人觉得扶她百合也是百合啦；最后里面侦探环节挺蠢的。
