@@ -3,11 +3,11 @@
 > 打完永恒少女后内心陷入了一阵空虚，然后疯狂给身边的同学安利，安利无果后想着不能就这么算了，有了把自己玩Gal的心路历程记录下来的想法。从高一还是高二打第一部Galgame开始，多多少少也玩了有50部左右了，那就从现在开始把之前通关的Gal都回忆起来传Github上去放着，回头看的时候也会有一种美好的故事尚在延续的欣慰吧。
 ##### 永恒少女\~堕落庭园的少女们~(エヴァーメイデン)
 1. 简介
-    ![简介](\img\简介.jpg)
+    ![简介](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/%E7%AE%80%E4%BB%8B.jpg)
 2. 人物
-    ![人物](\img\人物1.jpg)
-    ![人物](\img\人物2.jpg)
-    ![人物](\img\人物3.jpg)
+    ![人物](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/%E4%BA%BA%E7%89%A91.jpg)
+    ![人物](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/%E4%BA%BA%E7%89%A92.jpg)
+    ![人物](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/%E4%BA%BA%E7%89%A93.jpg)
 3. 简评（仅供参考）
     * 剧情 ★★★★★
         > 打永恒少女前刚刚通关了冬滚滚，感觉二者的剧情有不少相似之处。就我个人而言我觉得相当不错，一开始以为是平淡的中世界校园故事，少女们之间的感情塑造的相当不错，异化的少女出场后又增添了几分悬疑和恐怖的气氛，剧情关于人的生活目标，工具般被异化也进行了升华，在爱情，情节推动方面做的很好。忘了说了本作有点群像剧的味道，里面三对cp，主线剧情基本是在两对副cp的剧情进展之下推动的，所以一方面两队副cp的感情和人物塑造的很好，另一方面整个剧情的谜底和主cp的个人故事也在副cp的剧情推进下发展，二者结合的很好。
@@ -32,10 +32,10 @@
 4. 总结
     这是我写的第一篇放在平台上的文章，估计别人看了也是觉得不知所云，想当初我高考语文也有129分，想来写废话议论文确实是卵用没有。用markdown写的，等会投小黑盒上去，不管有没有人看，至少算是自己青春的记忆。
 ## CG
-![CG](\img\CG1.png)
-![CG](\img\CG2.png)
-![CG](\img\CG3.png)
-![CG](\img\CG4.png)
-![CG](\img\CG5.png)
-![CG](\img\CG6.png)
-![CG](\img\CG7.png)
+![CG](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/CG1.png)
+![CG](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/CG2.png)
+![CG](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/CG3.png)
+![CG](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/CG4.png)
+![CG](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/CG5.png)
+![CG](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/CG6.png)
+![CG](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%951%E3%80%91%E6%B0%B8%E6%81%92%E5%B0%91%E5%A5%B3~%E5%A0%95%E8%90%BD%E5%BA%AD%E5%9B%AD%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC~(%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3)/img/CG7.png)
