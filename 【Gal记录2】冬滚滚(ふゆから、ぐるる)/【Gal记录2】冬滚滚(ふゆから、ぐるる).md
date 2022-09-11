@@ -2,6 +2,9 @@
 ***
 > 说实话不是很想马上写这篇的，首先是题材和上一篇类似，然后是有刀子，为了复盘剧情我得重新过一遍，又强迫自己吃刀。我不喜欢刀是因为我玩Galgame就是为了看cp之间甜甜的恋爱的，现实世界已经很辛苦了，为什么还要看悲剧来折磨自己呢。但是越拖到后面越容易忘记剧情，索性把它赶快肝完算了。
 ##### 冬滚滚(ふゆから、ぐるる)
+   ![CG1](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG1.png)
+   ![CG2](https://github.com/SOFdian/zkh/tree/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img)
+   ![CG3](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG3.png)
 1. 简介（直接复制的）
 >“诶？你说雪纺可能死了是什么意思？诶诶？雪纺的头没了。”
 >
@@ -85,4 +88,10 @@
 4. 总结
     回忆通关的整个过程，前期基本是看hcg，中期的破案故事我个人没什么兴趣跳的很快，全靠希望小纺能复活的期待推动，后期真相揭露的那个部分个人认为是全篇最高光最精彩的部分，算是佳作，主要画风非常戳我，剧情也有一定深度。
 ## CG
-
+   ![CG4](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG4.png)
+   ![CG5](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG5.png)
+   ![CG6](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG6.png)
+   ![CG7](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG7.png)
+   ![CG8](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG8.png)
+   ![CG9](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG9.png)
+   ![CG10](https://github.com/SOFdian/zkh/blob/master/%E3%80%90Gal%E8%AE%B0%E5%BD%952%E3%80%91%E5%86%AC%E6%BB%9A%E6%BB%9A(%E3%81%B5%E3%82%86%E3%81%8B%E3%82%89%E3%80%81%E3%81%90%E3%82%8B%E3%82%8B)/img/CG10.png)
