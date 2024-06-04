@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/microservices-demo/emailservice:v0.7.0
+FROM gcr.io/google-samples/microservices-demo/loadgenerator:v0.7.0
